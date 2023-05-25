@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(37, 37, 37);
+  }
+
+  
+
+ .a{
+  
+    color: rgb(30, 255, 0);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 45px;
+ }
+ .b{
+    color: rgb(30, 255, 0);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+ }
+ .c{
+    color: rgb(30, 255, 0);
+    font-family:monospace;
+    font-size: 15px;
+ }
+ .button {
+    background-color: #00ff08;
+    border: none;
+    color: rgb(86, 43, 43);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration:wavy;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  
+  .button:hover { 
+    background-color: rgb(32, 206, 151);   
+    text-decoration: wavy;
+                   }
+  
+
+  
+    
